@@ -14,7 +14,7 @@
   width: 25%;
   padding: 1rem;
 
-  > .hero-logo {
+  .hero-logo {
     display: block;
     width: 150px;
     margin: auto;
@@ -25,13 +25,13 @@
   float: left;
   width: 75%;
 
-  > .hero-title {
+  .hero-title {
     font-size: 3rem;
     margin: 2rem 0 0;
     color: $red;
   }
 
-  > .hero-tagline {
+  .hero-tagline {
     color: $grey;
     margin: 0.25rem 0;
   }
